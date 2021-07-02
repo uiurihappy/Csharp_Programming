@@ -1,0 +1,16 @@
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.exe
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.deps.json
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.runtimeconfig.json
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.runtimeconfig.dev.json
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.dll
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\ref\18013189_HW2.dll
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\bin\Debug\net5.0\18013189_HW2.pdb
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.csprojAssemblyReference.cache
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.AssemblyInfoInputs.cache
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.AssemblyInfo.cs
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.csproj.CoreCompileInputs.cache
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.dll
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\ref\18013189_HW2.dll
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.pdb
+C:\Users\차윤범\source\repos\18013189_HW2\18013189_HW2\obj\Debug\net5.0\18013189_HW2.genruntimeconfig.cache

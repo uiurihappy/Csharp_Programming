@@ -1,0 +1,94 @@
+Vehicle 1000 assigned to WaitPlace #2.
+Vehicle 2000 assigned to WaitPlace #2.
+Vehicle 3000 assigned to WaitPlace #2.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 0
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 3
+FNUM: 3000 Dest: Address3 Prio: 1
+FNUM: 2000 Dest: Address2 Prio: 2
+FNUM: 1000 Dest: Address1 Prio: 7
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 0
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+Cancelation of Vehicle 2000 completed.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 0
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 2
+FNUM: 3000 Dest: Address3 Prio: 1
+FNUM: 1000 Dest: Address1 Prio: 7
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 0
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+Vehicle 600 assigned to WaitPlace #1.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 1
+FNUM: 600 Dest: Address4 Prio: 5
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 2
+FNUM: 3000 Dest: Address3 Prio: 1
+FNUM: 1000 Dest: Address1 Prio: 7
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 0
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+Vehicle 700 assigned to WaitPlace #3.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 1
+FNUM: 600 Dest: Address4 Prio: 5
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 2
+FNUM: 3000 Dest: Address3 Prio: 1
+FNUM: 1000 Dest: Address1 Prio: 7
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 1
+FNUM: 700 Dest: Address5 Prio: 4
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+Vehicle 800 assigned to WaitPlace #1.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 2
+FNUM: 800 Dest: Address6 Prio: 1
+FNUM: 600 Dest: Address4 Prio: 5
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 2
+FNUM: 3000 Dest: Address3 Prio: 1
+FNUM: 1000 Dest: Address1 Prio: 7
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 1
+FNUM: 700 Dest: Address5 Prio: 4
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+ WaitPlace #2 cleared.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 2
+FNUM: 800 Dest: Address6 Prio: 1
+FNUM: 600 Dest: Address4 Prio: 5
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 0
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 1
+FNUM: 700 Dest: Address5 Prio: 4
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************
+Vehicle 800 used to deliver.
+************************ Delivery Vehicle Info ************************
+Number of WaitPlaces: 3
+WaitPlace #1 Number Vehicles: 1
+FNUM: 600 Dest: Address4 Prio: 5
+---------------------------------------------------
+WaitPlace #2 Number Vehicles: 0
+---------------------------------------------------
+WaitPlace #3 Number Vehicles: 1
+FNUM: 700 Dest: Address5 Prio: 4
+---------------------------------------------------
+********************** End Delivery Vehicle Info **********************

@@ -1,0 +1,18 @@
+3
+ReadyIn W2 1000 Address1 P7
+ReadyIn W2 2000 Address2 P2
+ReadyIn W2 3000 Address3 P1
+Status
+Cancel 2000
+Status
+Ready 600 Address4 P5
+Status
+Ready 700 Address5 P4
+Status
+Ready 800 Address6 P1
+Status
+Clear W2
+Status
+Deliver W1
+Status
+Quit

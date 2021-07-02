@@ -1,0 +1,10 @@
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\bin\Debug\Painter_Project.exe.config
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\bin\Debug\Painter_Project.exe
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\bin\Debug\Painter_Project.pdb
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.csprojAssemblyReference.cache
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.Form1.resources
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.Properties.Resources.resources
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.csproj.GenerateResource.cache
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.csproj.CoreCompileInputs.cache
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.exe
+C:\Users\차윤범\source\repos\Painter_Project\Painter_Project\obj\Debug\Painter_Project.pdb
