@@ -1,0 +1,17 @@
+6
+2 1 3
+4
+Student Kim
+Gamer Lee
+Worker Choi
+Student Park
+S
+A 2 3
+A 3 2
+S
+T
+T
+S
+R 2
+S
+Q

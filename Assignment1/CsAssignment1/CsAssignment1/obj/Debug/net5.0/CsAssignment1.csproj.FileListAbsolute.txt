@@ -1,0 +1,32 @@
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.exe
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.deps.json
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.runtimeconfig.json
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.runtimeconfig.dev.json
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.dll
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\ref\CsAssignment1.dll
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\bin\Debug\net5.0\CsAssignment1.pdb
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.csprojAssemblyReference.cache
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.AssemblyInfoInputs.cache
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.AssemblyInfo.cs
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.dll
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\ref\CsAssignment1.dll
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.pdb
+C:\Users\Emperor\source\repos\_TimetoTreatment\__Class\Cs_Assignment\CsAssignment1\obj\Debug\net5.0\CsAssignment1.genruntimeconfig.cache
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.exe
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.deps.json
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.runtimeconfig.json
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.runtimeconfig.dev.json
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.dll
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\ref\CsAssignment1.dll
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\bin\Debug\net5.0\CsAssignment1.pdb
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.csprojAssemblyReference.cache
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.AssemblyInfoInputs.cache
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.AssemblyInfo.cs
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.dll
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\ref\CsAssignment1.dll
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.pdb
+C:\Users\차윤범\Desktop\2021 1학기\C#프로그래밍\과제\과제1\과제답\CsAssignment1\obj\Debug\net5.0\CsAssignment1.genruntimeconfig.cache
